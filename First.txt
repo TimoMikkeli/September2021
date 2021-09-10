@@ -1,3 +1,4 @@
 This was originally created locally during step 3.
 This modification was done during step 12 
 locally in my laptop.
+This line is to emulate the work of a team member who has synchronized their local work to GitHub.
